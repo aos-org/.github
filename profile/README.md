@@ -6,5 +6,5 @@ AOS (Activity & Operations System) is a unified organizational platform designed
 
 
 ### Table Of Content:
-- [Stack](./stack.md)
+- [Stack](./stack.md) : Git • Java • Spring • PostgreSQL • React • TypeScript
 
